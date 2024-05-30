@@ -1,0 +1,2 @@
+# lfm
+The Leapfrog Manifesto
